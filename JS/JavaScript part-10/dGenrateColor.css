@@ -1,0 +1,14 @@
+body{
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+}
+div{
+    height: 100px;
+    width: 70vw;
+    border: 1px solid black;
+    margin-top: 20px;
+    text-align: center;
+}
